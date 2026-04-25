@@ -6,19 +6,19 @@ layout: default
 # Analysis of The Effects of Daily Quizzes
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/Analysis/static/output.png" alt="Graph showing quiz effectiveness "  width="500"/>
+<img src="/Analysis/imgs/output.png" alt="Graph showing quiz effectiveness "  width="500"/>
 
 ## Histogram of Quiz Effectiveness Scores
 
 This distribution plot examines how the class rates the effectiveness of the quizzes. This allows me to see if students feel like the quizzes are effective or not. With this, I can also analyze the shape of the distribution to see if responses are skewed one way or the other. Skewed left tells me the class for the most part thinks they are helpful, skewed right tells me the class for the most part thinks they aren't helpful, a uniform distribution tells me they don't have a great impact, and a normal distribution can vary depending on where the center of the distribution is, but it likely indicates they are moderately helpful or not helpful.
 
-<img src="/Analysis/static/output2.png" alt="Graph showing possible correlation between quiz effectiveness and understanding " width="500"/>
+<img src="/Analysis/imgs/output2.png" alt="Graph showing possible correlation between quiz effectiveness and understanding " width="500"/>
 
 ## Scatterplot of Quiz Effectiveness vs Understanding
 
 This scatter plot helps determine whether there is a strong correlation between how effective people think the quizzes are and their understanding of the class. I am particularly looking to see if high quiz effectiveness is associated with better understanding of the course material. This helps determine whether short quizzes after every class are useful to students. 
 
-<img src="/Analysis/static/output3.png" alt="Graph showing how pace can affect understanding " width="500"/>
+<img src="/Analysis/imgs/output3.png" alt="Graph showing how pace can affect understanding " width="500"/>
 
 ## Box Plot Showing Relationship Between Pace and Understanding
 
